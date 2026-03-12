@@ -1,0 +1,10 @@
+# Ignora dependências em qualquer subpasta
+node_modules/
+
+# Ignora arquivos de ambiente (muito importante para segurança)
+.env
+.env.local
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
